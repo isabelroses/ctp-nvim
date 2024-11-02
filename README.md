@@ -1382,6 +1382,20 @@ render_markdown = true
 </tr>
 <!-- render-markdown.nvim -->
 
+<!-- markview.nvim -->
+</tr>
+<tr>
+<td> <a href="https://github.com/OXY2DEV/markview.nvim/tree/67b69cdaf9055bebac3682a070d7e5c8eecba29c">markview.nvim</a> </td>
+<td>
+
+```lua
+markview = false
+```
+
+</td>
+</tr>
+<!-- markview.nvim -->
+
 <!-- symbols-outline.nvim -->
 </tr>
 <tr>
